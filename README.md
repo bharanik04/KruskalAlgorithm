@@ -5,7 +5,7 @@
         # can create a copy of graph
 2. Pick the smallest edge. Check if it forms a cycle with the spanning tree 
 formed so far. If cycle is not formed, include this edge. Else, discard it. 
-  # Step 2: Pick the smallest edge and increment the index
-  # for next iteration
+        # Step 2: Pick the smallest edge and increment the index
+        # for next iteration
 
 3. Repeat step#2 until there are (V-1) edges in the spanning tree
